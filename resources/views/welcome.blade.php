@@ -77,7 +77,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Campus Security System
+                    Campus System
                 </div>
             </div>
         </div>
